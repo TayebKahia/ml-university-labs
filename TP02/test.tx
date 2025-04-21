@@ -1,0 +1,15 @@
+this is last Empty DataFrame
+Columns: [age, sex, steroid, antivirals, fatigue, malaise, anorexia, liver_big, liver_firm, spleen_palpable, spiders, ascites, varices, bilirubin, alk_phosphate, sgot, albumin, protime, histology, class]
+Index: []
+this alk 0      False
+1      False
+2      False
+3      False
+4      False
+       ...  
+150    False
+151    False
+152    False
+153    False
+154    False
+Name: alk_phosphate, Length: 155, dtype: bool
